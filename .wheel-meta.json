@@ -1,0 +1,22 @@
+{
+  "wheel_id": 410,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-com-105",
+  "project": "kitchen-renovations-perth-seasonal-timing-f667095e7cbc30936e",
+  "parent_t1_ref": "kitchenrenovationperth-com-152",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "kitchen renovations perth seasonal timing",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-perth-seasonal-timing-f667095e7cbc30936e/",
+  "tier": "T2",
+  "writeback_nonce": "afb65ffa4469f84c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-perth-warranty-d087c67c86c72fa83e41b0def791/",
+      "anchor": "kitchen renovations perth warranty",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
